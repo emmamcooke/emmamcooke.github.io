@@ -1,0 +1,86 @@
+body{
+
+    background-color: rgb(199, 233, 238);
+    background-image: url(file:///Users/Emma/Desktop/cotton-candy-candyfloss-png-candyfloss-transparent-images-29.png);
+    background-repeat: no-repeat;
+    background-position: 465px 0px;
+
+}
+
+h3{
+    position: absolute;
+    right: 868px;
+    color: lightslategray;
+    font-size: 23px;
+    bottom: 335px;
+}
+
+h4{
+    position: absolute;
+    font-size: 23px;
+    color: lightslategray;
+    bottom: 90px;
+    right: 640px;
+}
+
+h6{
+    position: absolute;
+    bottom: 5px;
+    right: 1080px;
+}
+
+h8{
+    color:lightcoral;
+    background-color: ivory;
+    font-size: 50px;
+    position: absolute;
+    right: 750px;
+    bottom: 535px;
+}
+
+h11{
+    position: absolute;
+    right: 430px;
+    bottom: 10px;
+}
+
+h12{
+    position: absolute;
+    right: 390px;
+    bottom: 492px;
+    font-size: 23px;
+    color: lightslategray;
+    font: bolder;
+
+}
+
+h13{
+    position: absolute;
+    right: 1175px;
+    bottom: 450px;
+}
+
+#paragraphone {
+    position: absolute;
+    background-color: rgb(243, 208, 208);
+    right: 315px;
+    bottom: 365px;
+    padding: 20px;
+
+}
+
+#paragraphtwo {
+    position: absolute;
+    background-color: rgb(243, 208, 208);
+    padding: 20px;
+    bottom: 230px;
+    right: 765px;
+}
+
+#paragraphthree {
+    position: absolute;
+    background-color: rgb(243, 208, 208);
+    padding: 20px;
+    bottom: 25px;
+    right: 500px;
+}
